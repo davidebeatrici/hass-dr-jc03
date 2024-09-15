@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "entry_name": "[%key:common::config_flow::data::entry_name%]",
+          "serial_path": "[%key:common::config_flow::data::serial_path%]",
+          "serial_baudrate": "[%key:common::config_flow::data::serial_baudrate%]",
+          "update_interval": "[%key:common::config_flow::data::update_interval%]"
+        }
+      }
+    }
+  }
+}

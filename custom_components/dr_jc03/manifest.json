@@ -1,0 +1,17 @@
+{
+  "domain": "dr_jc03",
+  "name": "DR-JC03",
+  "codeowners": [
+    "@davidebeatrici"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/davidebeatrici/hass-dr-jc03",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/davidebeatrici/hass-dr-jc03/issues",
+  "requirements": [
+    "pyserial-asyncio-fast==0.13"
+  ],
+  "version": "1.0.0"
+}
